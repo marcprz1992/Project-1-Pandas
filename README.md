@@ -27,23 +27,23 @@ In order to assess/validate these hypotheses, I have done more cleaning, applied
 
 With regards to the first hypotheses, the first thing I have done is getting the actual number of cases by gender as well as cleaning the variable "Year" so it is an actual integer number, as opposed to a float.
 
-figure_one.jpg
+figure_one.jpg![](images/figure_one.jpg)
 Once this has been done, I have filtered the "Activity" variable so I could see how the data relates to "Surfing". I have also applied a conditional filter so I could get the final numbers I was after given the scope of the hypothesis. With all of that, I could see Australian men got attacked more times than Australian women.
-figure_two.jpg
+figure_two.jpg![](images/figure_two.jpg)
 
 Having said that, when I compared the results vs. the other countries, especially vs. the top 5 more attacked countries, Australia WAS NOT the main one, that was the US, so this hypothesis has been rejected.
-figure_three.jpg
+figure_three.jpg![](images/figure_three.jpg)
 
 With regards to the second hypothesis, I have firstly cleaned some more variables so I could get the most refined version, especially for the variables "Fatal Y/N" and "Year" (being the last one filtered for the last few years as 2015 is the year I was after).
 With that, I could see 2015 IS NOT the year where the shortest number of attacks happened in the last 10 years, it's the one with the largest one actually.
-figure_five.jpg
+figure_five.jpg![](images/figure_five.jpg)
 Regardless of the result, I still had a look at the top 3 countries to see how much percentage they represent, which is actually 80%. These countries are the US, Australia & South Africa.
-figure_seven.jpg
+figure_seven.jpg![](images/figure_seven.jpg)
 When it comes to the fatality, there were only 3 cases registered in 2015.
-figure_eight.jpg
+figure_eight.jpg![](images/figure_eight.jpg)
 
 With regards to the last hypothesis, I have used Regex in order to filter some data as well as have created new conditional columns so I could gather the information needed (e.g. age ranges and quarter of the year, given I'm interested in the summer/the third one).
-figure_eleven.jpg
+figure_eleven.jpg![](images/figure_eleven.jpg)
 This chart is summarising the number of attacks that happened by age range and quarter for the last 20 years.
 Surprisingly, people aged between 10-20 years old were the ones with the largest number of shark attacks, followed by people between 20-30 years old.
 
